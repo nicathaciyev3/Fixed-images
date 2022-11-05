@@ -1,0 +1,14 @@
+img{
+ width: 233px;
+ height: 650px;
+ left: 5px; 
+ object-fit: cover;  
+position: fixed !important;
+margin-top: 647px;
+
+}
+p{
+    margin-left: 249px;
+    object-position: center;
+    margin-top: -655px;
+}
